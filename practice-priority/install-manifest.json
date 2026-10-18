@@ -1,0 +1,10 @@
+{
+  "out/src/explorer/explorerNodeManager.js": {
+    "original": "63976e9981d822efd5f84ab3c6b72a7d6f30a439166c1ff88377b3ff2b57629d",
+    "patched": "d4639ff8ef9c02f8ced42755416ea8ea9a43e525197d3ab295ff3e4dbc43b09d"
+  },
+  "out/src/explorer/LeetCodeTreeDataProvider.js": {
+    "original": "9ceb3e9202a0657ab2527469a6298cfafdb9e04715cc201fe1d350c992d1831d",
+    "patched": "702ca4b8aae67f2cd3d5d5ea8b7f07ef87f2df1405ae4a7331d9be27822fbd5f"
+  }
+}
